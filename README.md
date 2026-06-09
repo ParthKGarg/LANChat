@@ -13,6 +13,8 @@ The application uses:
 - TCP sockets for reliable messaging
 - Qt Widgets for the graphical user interface
 
+Developed as a Qt/C++ networking project for LAN-based real-time communication.
+
 ---
 
 # Features
@@ -125,4 +127,4 @@ LANChat/
 
 # Author
 
-Developed as a Qt/C++ networking project for LAN-based real-time communication.
+Divyansh Gautam
